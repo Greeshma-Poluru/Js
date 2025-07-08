@@ -44,7 +44,7 @@ ii)equality
  console.log(v===1);//true
  console.log(v!==1);//false
 
-we have strict eeuality operator and loose equality operator.
+we have strict equality operator and loose equality operator.
 //strict equality(here both operands tupe and value should be same)
 console.log(1===1);//true
 console.log('1'===1);//false
@@ -97,9 +97,9 @@ console.log(currentcolor);//red*/
 let usercolor='red';
 let defaultcolor=undefined;
 let currentcolor=usercolor||defaultcolor;
-console.log(currentcolor);//blue
+console.log(currentcolor);
 
-similarly ,if i use && like 1&&undefined-->undefined falsy value will return 
+similarly ,if i use && like 1 &&undefined-->undefined falsy value will return 
 undefined||undefined:undefined
 1||0:1
 

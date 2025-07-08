@@ -18,7 +18,7 @@ but whereas in javascript we change the type of the variable at runtime.
 
 we can check the type of variable using typeofmethod; typeof name :it shows String
 now in console i give name=1;
-noe typeof name  gives Number;
+now typeof name  gives Number;
 
 therefore,type of the variables are determined at runtime based on the values that we assigned to them.
 

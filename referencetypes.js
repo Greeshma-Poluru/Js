@@ -29,7 +29,7 @@ now we if want to change the values we have 2 ways
 
 
 /*Array: array is a data structure that is used to store a list of items.
-whenever we want to store list of objects,like list of items in cart EventCounts..we use arrays.
+whenever we want to store list of objects,like list of items in cart .weuse arrays.
 
 []:array literal
 //let selectedcolors=[];//empty array*/
@@ -38,7 +38,7 @@ let selectedcolors=['red','green'];//array creation
 console.log(selectedcolors);//displays red and green in array format
 console.log(selectedcolors[0]);//displays red
 /* it has index positions starting from 0.
-*as we said js is DynamicsCompressorNode,arrays are also dynamic if.e.. 
+*as we said js is Dynamics,arrays are also dynamic if.e.. 
 we change the length  of array and typeof objects in array at runtime.
 
 *we can have diff types in array*/
